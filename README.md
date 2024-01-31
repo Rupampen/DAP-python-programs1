@@ -1,1 +1,2 @@
-# DAP-python-programs1
+# Python programs DAP(et21bthcs008)...
+sec A cse 6th sem
